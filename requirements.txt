@@ -1,0 +1,4 @@
+pyqt5~=5.15.11
+cryptography~=44.0.0
+pandas~=2.2.3
+beautifulsoup4~=4.12.3
